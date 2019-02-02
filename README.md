@@ -1,6 +1,6 @@
 
-# Electron Todo
+# Electron Inventory app
 
-A simple todo app made with Electron.
+A simple Inventory app made with Electron.
 
-[See the tutorial here](https://medium.com/@codedraken)
+
